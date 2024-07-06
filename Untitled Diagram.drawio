@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T14:44:55.061Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="GZ3aV1lUNiZXh6mBIwIQ" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-06T14:57:44.743Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Yi9rKJ37IoopILSBN5W0" version="24.6.4" type="github" pages="2">
   <diagram name="usecase" id="Zn3ftCEUGFCLxZuFitBj">
     <mxGraphModel dx="2151" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -131,11 +131,57 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="agmXEf1ZK7DYsiQzmSKJ" name="Page-2">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="agmXEf1ZK7DYsiQzmSKJ" name="activity-register-donor-darah">
+    <mxGraphModel dx="1041" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="57GEVFxmrZdjnHmPxv5d-1" value="Petugas" style="swimlane;whiteSpace=wrap;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="164.5" y="128" width="280" height="362" as="geometry" />
+        </mxCell>
+        <mxCell id="57GEVFxmrZdjnHmPxv5d-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="57GEVFxmrZdjnHmPxv5d-1" source="57GEVFxmrZdjnHmPxv5d-3" target="57GEVFxmrZdjnHmPxv5d-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="102" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="57GEVFxmrZdjnHmPxv5d-3" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="57GEVFxmrZdjnHmPxv5d-1">
+          <mxGeometry x="125" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="57GEVFxmrZdjnHmPxv5d-7" value="pilih menu register donor darah" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="57GEVFxmrZdjnHmPxv5d-1">
+          <mxGeometry x="70" y="102" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="57GEVFxmrZdjnHmPxv5d-21" value="isi form" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="57GEVFxmrZdjnHmPxv5d-1">
+          <mxGeometry x="70" y="222" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="57GEVFxmrZdjnHmPxv5d-5" value="Sistem" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="444.5" y="128" width="280" height="362" as="geometry" />
+        </mxCell>
+        <mxCell id="57GEVFxmrZdjnHmPxv5d-8" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="57GEVFxmrZdjnHmPxv5d-5">
+          <mxGeometry x="125" y="302" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="57GEVFxmrZdjnHmPxv5d-20" value="menampikan form&amp;nbsp;&lt;div&gt;donor darah&lt;/div&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="57GEVFxmrZdjnHmPxv5d-5">
+          <mxGeometry x="70" y="102" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="57GEVFxmrZdjnHmPxv5d-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="57GEVFxmrZdjnHmPxv5d-5" source="57GEVFxmrZdjnHmPxv5d-23" target="57GEVFxmrZdjnHmPxv5d-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="57GEVFxmrZdjnHmPxv5d-23" value="simpan data" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="57GEVFxmrZdjnHmPxv5d-5">
+          <mxGeometry x="70" y="222" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="57GEVFxmrZdjnHmPxv5d-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="57GEVFxmrZdjnHmPxv5d-7" target="57GEVFxmrZdjnHmPxv5d-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="57GEVFxmrZdjnHmPxv5d-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="57GEVFxmrZdjnHmPxv5d-20" target="57GEVFxmrZdjnHmPxv5d-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="585" y="310" />
+              <mxPoint x="305" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="57GEVFxmrZdjnHmPxv5d-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="57GEVFxmrZdjnHmPxv5d-21" target="57GEVFxmrZdjnHmPxv5d-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
