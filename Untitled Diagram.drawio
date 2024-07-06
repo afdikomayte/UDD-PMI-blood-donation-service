@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T19:51:05.861Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="RCUiehk2n5zRKHewzW8W" version="24.6.4" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2024-07-06T19:51:40.116Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="UTAdYmRRKxV1EHVdoLv8" version="24.6.4" type="github" pages="15">
   <diagram name="usecase" id="Zn3ftCEUGFCLxZuFitBj">
     <mxGraphModel dx="2151" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1539,12 +1539,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="sequence-permintaan-darah" id="lnkRkXvAZqILikWboUB6">
-    <mxGraphModel dx="1041" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="718" dy="325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Yqr54IEoTArCK9hrekZr-0" />
         <mxCell id="Yqr54IEoTArCK9hrekZr-1" parent="Yqr54IEoTArCK9hrekZr-0" />
         <mxCell id="Yqr54IEoTArCK9hrekZr-2" value="halaman permnitaan darah" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontStyle=1" vertex="1" parent="Yqr54IEoTArCK9hrekZr-1">
-          <mxGeometry x="430" y="100" width="100" height="240" as="geometry" />
+          <mxGeometry x="450" y="100" width="100" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Yqr54IEoTArCK9hrekZr-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#FFFFFF;strokeColor=#000000;fontStyle=1" vertex="1" parent="Yqr54IEoTArCK9hrekZr-2">
           <mxGeometry x="45" y="60" width="10" height="50" as="geometry" />
@@ -1567,10 +1567,11 @@
         <mxCell id="Yqr54IEoTArCK9hrekZr-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fontStyle=1" vertex="1" parent="Yqr54IEoTArCK9hrekZr-8">
           <mxGeometry x="45" y="90" width="10" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Yqr54IEoTArCK9hrekZr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;fontStyle=1" edge="1" parent="Yqr54IEoTArCK9hrekZr-1">
+        <mxCell id="Yqr54IEoTArCK9hrekZr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;fontStyle=1;" edge="1" parent="Yqr54IEoTArCK9hrekZr-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="325" y="170" as="sourcePoint" />
-            <mxPoint x="475" y="170" as="targetPoint" />
+            <mxPoint x="500" y="170" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Yqr54IEoTArCK9hrekZr-11" value="1: akses menu permintaan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="Yqr54IEoTArCK9hrekZr-10">
