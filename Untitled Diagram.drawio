@@ -400,7 +400,7 @@
           <mxGeometry x="52.75" y="252" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="0O0W9JZJ_6_rU8poVxvl-45" value="Sistem" style="swimlane;whiteSpace=wrap;fontStyle=1" parent="SMG5t5fZnl9DsAQJ7-WE-1" vertex="1">
-          <mxGeometry x="420" y="138" width="260" height="642" as="geometry" />
+          <mxGeometry x="420" y="138" width="290" height="642" as="geometry" />
         </mxCell>
         <mxCell id="0O0W9JZJ_6_rU8poVxvl-46" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;fontStyle=1" parent="0O0W9JZJ_6_rU8poVxvl-45" vertex="1">
           <mxGeometry x="115" y="592" width="30" height="30" as="geometry" />
@@ -614,7 +614,7 @@
           <mxGeometry x="52.75" y="232" width="140" height="44" as="geometry" />
         </mxCell>
         <mxCell id="KOq9p5LlRg0iQlBLBipD-17" value="Sistem" style="swimlane;whiteSpace=wrap;fontStyle=1" parent="KOq9p5LlRg0iQlBLBipD-1" vertex="1">
-          <mxGeometry x="420" y="138" width="260" height="642" as="geometry" />
+          <mxGeometry x="420" y="138" width="280" height="642" as="geometry" />
         </mxCell>
         <mxCell id="KOq9p5LlRg0iQlBLBipD-18" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;fontStyle=1" parent="KOq9p5LlRg0iQlBLBipD-17" vertex="1">
           <mxGeometry x="115" y="592" width="30" height="30" as="geometry" />
@@ -831,7 +831,7 @@
           <mxGeometry x="52.75" y="102" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o4XqHtbWN0A4UTBYxSLB-17" value="Sistem" style="swimlane;whiteSpace=wrap;fontStyle=1" parent="o4XqHtbWN0A4UTBYxSLB-1" vertex="1">
-          <mxGeometry x="420" y="138" width="260" height="642" as="geometry" />
+          <mxGeometry x="420" y="138" width="290" height="642" as="geometry" />
         </mxCell>
         <mxCell id="o4XqHtbWN0A4UTBYxSLB-18" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;fontStyle=1" parent="o4XqHtbWN0A4UTBYxSLB-17" vertex="1">
           <mxGeometry x="115" y="592" width="30" height="30" as="geometry" />
